@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a chat app**
+ 🔭 I’m currently working on **owner Online-Shop Software have Web Automated & Marketing strategies**
  
- 🌱 I’m currently learning **Redis, Tailwind, React Native Expo**
+ 🌱 I’m currently learning **Prisma , Webgl , Nest.js**
 
- 💬 Ask me about **Node.js, React, Firebase, MongoDB... or anything [here](https://github.com/salesp07/salesp07/issues)**
+ 💬 Ask me about **Node.js, Next.js 13, React-Hooks, Redux, Three.js, Firebase, MongoDB, Mysql, Postgresql ... or anything [here](https://github.com/deaamanager/deaamanager/issues)**
 
  ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
