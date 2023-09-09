@@ -63,7 +63,7 @@
      <br/><br/>
     <img width=500 src="https://github-readme-stats-salesp07.vercel.app/api?username=deaamanager&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10&bg_color=00000000" alt="readme stats" />
   <br/><br/>
-    <img width=500 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=deaamanager&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+    <img width=500 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=deaamanager&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&bg_color=00000000" alt="top langs" />
 
 </div>
 
