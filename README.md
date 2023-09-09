@@ -40,6 +40,7 @@
     <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,typescript,python,selenium,firebase,googlecloud,express,git" /><br>
     <img src="https://skillicons.dev/icons?i=prisma,net,mysql,postgresql,graphql,vscode,react,next,vite,tailwind" />
      <img src="https://skillicons.dev/icons?i=unity,threejs,bootstrap,mui,sass,aws,mongodb,firebase,nestjs,redux" />
+    <img src="https://skillicons.dev/icons?i=figma,blender,cloudflare,bots,githubactions,jest,netlify,planetscale,supabase,webflow" />
 </div>
 
 <br/>
