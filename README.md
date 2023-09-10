@@ -10,13 +10,13 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **owner Online-Shop Software have Web Automated & Marketing strategies**
+ 🔭 I’m currently working on **a owner Online-Shop Software has Web Automation & Marketing strategies and more Technologies**
  
  🌱 I’m currently learning **Prisma , Webgl , Nest.js**
 
  💬 Ask me about **Node.js, Next.js 13, React-Hooks, Redux, Three.js, Firebase, MongoDB, Mysql, Postgresql ... or anything [here](https://github.com/deaamanager/deaamanager/issues)**
 
- ⚡ //Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**//
+ ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
  
  </div>
  
