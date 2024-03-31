@@ -54,7 +54,7 @@
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
-<br>
+
 <div align="center">
   <img width=500 src="https://streak-stats.demolab.com?user=deaamanager&theme=github-dark&hide_border=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="streak stats"/>
       <hr/>
