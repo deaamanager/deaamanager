@@ -57,9 +57,9 @@
 <br>
 <div align="center">
   <img width=500 src="https://streak-stats.demolab.com?user=deaamanager&theme=github-dark&hide_border=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="streak stats"/>
-     <br/><br/>
+      <hr/>
     <img width=500 src="https://github-readme-stats-salesp07.vercel.app/api?username=deaamanager&count_private=true&show_icons=true&theme=dark&rank_icon=github&border_radius=10&bg_color=00000000" alt="readme stats" />
-  <br/><br/>
+ <hr/>
     <img width=500 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=deaamanager&hide=HTML&langs_count=8&layout=compact&theme=dark&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&bg_color=00000000" alt="top langs" />
 
 </div>
@@ -72,3 +72,4 @@
 </h3>
 
 <br/>
+
